@@ -1,6 +1,6 @@
-# Giveaway Bot
+# 🎉 Giveaway Bot
 
-🎉 A simple giveaway bot that saves after restarting the bot
+A simple giveaway bot that saves after restarting the bot
 
 Usage | Example
 ----- | -------
